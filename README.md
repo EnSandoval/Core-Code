@@ -18,3 +18,6 @@ fin
 7. Leído.
 8. Sirven para oganizar y determinar como se recreará un algorítmo, ayuda de manera visual a saber como se comportará.
 9. Terminado.
+
+
+###Miercoles.
